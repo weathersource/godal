@@ -1,8 +1,6 @@
-module github.com/airbusgeo/godal
+module github.com/weathersource/godal
 
-go 1.23.0
-
-toolchain go1.24.1
+go 1.25.0
 
 require (
 	cloud.google.com/go/storage v1.51.0
